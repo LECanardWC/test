@@ -14,6 +14,7 @@ private JPanel pan2;
 private JPanel pan22;
 private JPanel pan3;
 //String azerty;
+String test;
 //Menu
 private JMenuBar Menu;
 private JMenu Menucontact;
