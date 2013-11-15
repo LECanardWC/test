@@ -6,7 +6,7 @@ public class Contact {
 	private String prenom;
 	private String email;
 	private String commentaire;
-	int n =0;
+	
 	
 	//methode public
 	public Contact(int num, String nom, String prenom, String email, String commentaire) {
