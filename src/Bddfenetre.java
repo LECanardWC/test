@@ -7,7 +7,7 @@ import javax.swing.*;
 
 
 public class Bddfenetre extends JFrame implements ActionListener {
-	
+//Encore une victoire pour canard	
 //panels
 private JPanel pan1;
 private JPanel pan2;
