@@ -10,7 +10,7 @@ public class Main {
 
 	System.out.print("ou pas !!!");
 
-	System.out.print("Gg canard !");
+	System.out.print("Gg canard ! =3");
 	
 	}
 
