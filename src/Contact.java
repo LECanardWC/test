@@ -5,7 +5,7 @@ public class Contact {
 	private String nom;
 	private String prenom;
 	private String email;
-	private String commentaire;
+	//private String commentaire;
 	int n =0;
 	
 	//methode public
