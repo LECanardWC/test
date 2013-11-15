@@ -7,7 +7,7 @@ public class Main {
 	
 	Bddfenetre b1 = new Bddfenetre(connectDB.inserer());
 	System.out.print("Et encore une victoire pour le plow de Canard WC, et merde...");
-	
+		System.out.print("ou pas !!!");
 	}
 
 }
