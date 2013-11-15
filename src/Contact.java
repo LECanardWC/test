@@ -1,6 +1,6 @@
 
 public class Contact {
-
+	//methode prive
 	private int numero;
 	private String nom;
 	private String prenom;
@@ -8,6 +8,7 @@ public class Contact {
 	private String commentaire;
 	int n =0;
 	
+	//methode public
 	public Contact(int num, String nom, String prenom, String email, String commentaire) {
 		this.numero=num;
 		this.nom=nom;
