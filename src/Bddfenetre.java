@@ -13,6 +13,7 @@ private JPanel pan1;
 private JPanel pan2;
 private JPanel pan22;
 private JPanel pan3;
+//String azerty;
 //Menu
 private JMenuBar Menu;
 private JMenu Menucontact;
