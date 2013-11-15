@@ -6,8 +6,7 @@ public class Main {
 	
 	
 	Bddfenetre b1 = new Bddfenetre(connectDB.inserer());
-		
-	
+	System.out.print("Blablabla");
 	
 	}
 
